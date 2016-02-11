@@ -1,0 +1,18 @@
+INCAR created by Atomic Simulation Environment
+ ENCUT = 300.000000
+ EDIFF = 1.00e-06
+ EDIFFG = 1.00e-03
+ SYSTEM = Generic System Name
+ PREC = Accurate
+ GGA = PS
+ ALGO = Normal
+ ISYM = 2
+ ISMEAR = -5
+ ISTART = 0
+ ICHARG = 0
+ NELM = 200
+ NSW = 0
+ INIWAV = 1
+ IBRION = 1
+ ISIF = 3
+ LREAL = .FALSE.

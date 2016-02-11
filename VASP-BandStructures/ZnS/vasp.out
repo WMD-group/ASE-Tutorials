@@ -1,0 +1,40 @@
+ running on    1 total cores
+ distrk:  each k-point on    1 cores,    1 groups
+ distr:  one band on    1 cores,    1 groups
+ using from now: INCAR     
+ vasp.5.4.1 24Jun15 (build Oct 13 2015 09:47:18) complex                        
+  
+ POSCAR found :  2 types and       4 ions
+
+ ----------------------------------------------------------------------------- 
+|                                                                             |
+|  ADVICE TO THIS USER RUNNING 'VASP/VAMP'   (HEAR YOUR MASTER'S VOICE ...):  |
+|                                                                             |
+|      You enforced a specific xc-type in the INCAR file,                     |
+|      a different type was found on the POTCAR file                          |
+|          I HOPE YOU KNOW, WHAT YOU ARE  DOING                               |
+|                                                                             |
+ ----------------------------------------------------------------------------- 
+
+ LDA part: xc-table for Pade appr. of Perdew
+ found WAVECAR, reading the header
+  number of k-points has changed, file:    21 present:    81
+  trying to continue reading WAVECAR, but it might fail
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ WARNING: small aliasing (wrap around) errors must be expected
+ FFT: planning ...
+ reading WAVECAR
+ the WAVECAR file was read successfully
+ initial charge from wavefunction
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1    -0.408200621251E+01   -0.40820E+01   -0.28155E+02  4790   0.115E+02    0.464E+01
+DAV:   2    -0.748979529636E+01   -0.34078E+01   -0.36710E+01  3950   0.454E+01    0.751E+01
+DAV:   3    -0.795439155911E+01   -0.46460E+00   -0.16423E+00  4878   0.236E+01    0.120E+02
+DAV:   4    -0.744538571398E+01    0.50901E+00   -0.24423E+00  4426   0.424E+01    0.120E+01
+DAV:   5    -0.747996255911E+01   -0.34577E-01   -0.37335E-01  4212   0.375E+00    0.189E+00
+DAV:   6    -0.747885053580E+01    0.11120E-02   -0.11907E-02  4798   0.166E+00    0.105E+00
+DAV:   7    -0.747894561872E+01   -0.95083E-04   -0.26020E-03  4332   0.333E-01    0.461E-01
+DAV:   8    -0.747893875989E+01    0.68588E-05   -0.17267E-04  2396   0.223E-01
+   1 F= -.74789388E+01 E0= -.74789388E+01  d E =-.694028E-15
+ writing wavefunctions

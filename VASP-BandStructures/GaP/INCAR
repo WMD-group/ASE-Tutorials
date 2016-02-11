@@ -1,0 +1,7 @@
+INCAR created by Atomic Simulation Environment
+ ENCUT = 500.000000
+ SIGMA = 0.010000
+ SYSTEM = Band structure
+ GGA = PS
+ ISMEAR = 0
+ NSW = 0
