@@ -16,5 +16,5 @@ get_spg.py -f CONTCAR.zincblende
 ### compare-structures
 
 ```
-./convert_structure.py -f 958456.cif
+convert_structure.py -f 958456.cif
 ```
