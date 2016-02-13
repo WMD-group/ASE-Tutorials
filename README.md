@@ -1,6 +1,10 @@
 # ASE-Tutorials
 
-Examples of using the Atomic Simulation Environment for making research easier.
+Examples of using the Atomic Simulation Environment for making research easier.  See their installation [guide](https://wiki.fysik.dtu.dk/ase/download.html). Installation on OS X should now be as simple as:
+```
+brew install pygtk
+pip install python-ase
+```
 
 ### spacegroup
 
