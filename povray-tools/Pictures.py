@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from ase.all import *
 from ase_povray import povray_parameter
 import numpy as np
