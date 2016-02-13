@@ -17,8 +17,13 @@ To run:
 get_spg.py -f CONTCAR.zincblende
 ```
 
-### compare-structures
+### convert-structures
 
 ```
 convert_structure.py -f 958456.cif
 ```
+
+### compare-structures
+```
+compare_structures.py
+````
