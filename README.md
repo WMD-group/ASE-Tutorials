@@ -1,6 +1,6 @@
 # ASE-Tutorials
 
-Examples of using the Atomic Simulation Environment
+Examples of using the Atomic Simulation Environment for making research easier.
 
 ### spacegroup
 
