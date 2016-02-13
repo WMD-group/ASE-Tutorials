@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Useage python convert_structure.py -f <input> -o <output>
 from ase.io import read, write
 from optparse import OptionParser
