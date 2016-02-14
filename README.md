@@ -28,8 +28,19 @@ convert_structure.py -f 958456.cif
 compare_structures.py
 ````
 
-### ase-db (calculation database)
+### ase-db (database)
 
 ```
 ipython notebook ase-db.ipynb
 ```
+
+### LAMMPS-forcefield
+```
+ipython notebook ForceFields.ipynb
+```
+
+### VASP-bandstructures
+```
+ipython notebook SiBandsASE.ipynb
+```
+
