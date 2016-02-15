@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from ase import *
 from ase.io import read, write
 import numpy as np

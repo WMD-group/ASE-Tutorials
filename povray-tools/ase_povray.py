@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from ase.data import colors
 import numpy as np
 class povray_parameter:
